@@ -17,5 +17,8 @@
 	<icon src="icon.png" />
 	<gap:splash src="splash.png" />
 
+	<gap:platform name="ios" />
+	<gap:platform name="android" />
+
 
 </widget>
